@@ -7,7 +7,7 @@
 
 
 - I graduated from Sakarya University in July 2022
-- I’m interested in .Net
+- I’m interested in .Net,EF,JavaScript,Docker,Microservices,Xamarin
 - How to reach me: **cngzkcl53@gmail.com**   <a href="https://www.linkedin.com/in/cengizhan-kocal/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
 ----
 <p align="center">
