@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Cengizhan Kocal</h1>
+<h1>Hi 👋, I'm Cengizhan K</h1>
 <p><img src="https://komarev.com/ghpvc/?username=cengiiz" alt="cengiiz" /> </p>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/64419094/216331416-3d566c3e-e8a0-45d5-ba0d-3b621ecff0c9.gif" />
