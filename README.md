@@ -1,37 +1,59 @@
-<h1>Hi 👋, I'm Cengiz K</h1>
-<p><img src="https://komarev.com/ghpvc/?username=cengiiz" alt="cengiiz" /> </p>
+<h1>Hi 👋, I'm Cengiz Kocal</h1>
+
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/64419094/216331416-3d566c3e-e8a0-45d5-ba0d-3b621ecff0c9.gif" />
+    <img src="https://user-images.githubusercontent.com/64419094/216331416-3d566c3e-e8a0-45d5-ba0d-3b621ecff0c9.gif" width="600" />
 </p>
 
-I graduated from Sakarya University in July 2022
+- 🎓 I graduated from **Sakarya University** in July 2022.
+- 🚀 I’m passionate about building things with **.NET, Blazor, Angular, JavaScript, Docker & Microservices**.
+- 📫 How to reach me:
 
-I’m interested in .Net,EF,Blazor,Angular,JavaScript,Docker,Microservices,Xamarin
-
-How to reach me: cngzkcl53@gmail.com   <a href="https://www.linkedin.com/in/cengizhan-kocal/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
-
-🛠️ Teknolojiler & Araçlar (Technologies & Tools)
-<p align="center">
-<strong>Backend:</strong><br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcs,dotnet,aspnet" />
-<br>
-<strong>Frontend:</strong><br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djavascript,angular,blazor,jquery,html,css" />
-<br>
-<strong>Veritabanları (Databases):</strong><br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmssql,mysql,mongodb,firebase,supabase" />
-<br>
-<strong>Cloud & DevOps:</strong><br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker,aws,git,github,tfs,postman" />
-<br>
-<strong>Machine Learning & Diğer Diller:</strong><br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,tensorflow,keras,cpp" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/cengizhan-kocal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:cngzkcl53@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h4 align="center">Top langs :tongue:</h4>
+---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengiiz&hide=scss,less,ruby,powershell,c&layout=compact" alt="cengiiz :: Top Langs" /></p>
+### 🛠️ My Tech Stack
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<p align="center">
+  <strong>Languages:</strong><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,javascript" />
+</p>
+<p align="center">
+  <strong>Frameworks & Tools:</strong><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,git,visualstudio,vscode,postman" />
+</p>
+<p align="center">
+  <strong>Databases & Cloud:</strong><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,cloudflare" />
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cengiiz&show_icons=true" alt="cengiiz :: Profile Stats" /></p>
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cengiiz&show_icons=true&theme=radical" alt="cengiiz :: Profile Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengiiz&layout=compact&theme=radical" alt="cengiiz :: Top Langs" />
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cengiiz&theme=radical" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=cengiiz&theme=gruvbox&column=7" />
+</p>
+
+---
+
+### 📈 My Activity Graph
+
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cengiiz&theme=github-dark)](https://github.com/cengiiz)
